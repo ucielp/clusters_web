@@ -1,0 +1,13 @@
+# Tables created manually are described in mysql_tables.sql
+
+python parser_cluster_families.py  -f /home/uchorostecki/users/tg/mmarcet/HGT3_proteomes/uciel/cluster_families.txt
+
+# Run parser_taxonomy.sql
+
+# python parser_protein_information.py  -f /home/uchorostecki/users/tg/mmarcet/HGT3_proteomes/uciel/protein_family_examples/YEAST.txt 
+# or better
+./parser_protein_information.sh users/tg/mmarcet/HGT3_proteomes/genome_walking4/conversion_files/
+
+# Run parser_all_trees.sql
+
+# Run parser_secondary_metabolism.sql
