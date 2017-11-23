@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="281.02173"
+     inkscape:cx="191.65737"
      inkscape:cy="100.46509"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -38,10 +38,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="1000"
-     inkscape:window-x="1920"
-     inkscape:window-y="113"
+     inkscape:window-width="1680"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,7 +61,10 @@
      id="layer1"
      transform="translate(-51.548237,-158.40765)">
     <g
-       id="g4304">
+       id="g4304"
+       inkscape:export-filename="/home/uchorostecki/lab/sites/clusters_web/images/evolclust_logo.header.png"
+       inkscape:export-xdpi="30.130962"
+       inkscape:export-ydpi="30.130962">
       <path
          inkscape:connector-curvature="0"
          id="path4269"

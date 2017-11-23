@@ -25,6 +25,8 @@ CREATE TABLE `cluster_families` (
 ALTER TABLE `cluster_families`
   ADD PRIMARY KEY (`id`),
   ADD KEY `protein_id` (`protein_code`);
+  ADD KEY `cluster_code` (`cluster_code`);
+
 
 --
 -- AUTO_INCREMENT for dumped tables
